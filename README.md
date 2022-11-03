@@ -1,9 +1,9 @@
-# zsh-customization  
+# zsh-customization
 
-## Case-insensitive autocompletion  
+## Case-insensitive autocompletion
 
-Add following lines to ```~/.zshrc```:  
+Add following lines to ```~/.zshrc```:
 ```
-autoload -Uz compinit && compinit  
+autoload -Uz compinit && compinit
 zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}'
-```  
+```

@@ -1,6 +1,6 @@
 # zsh-customization
 
-## Case-insensitive autocompletion
+### Case-insensitive autocompletion
 
 Add following lines to ```~/.zshrc```:
 ```
